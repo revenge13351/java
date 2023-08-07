@@ -1,5 +1,5 @@
 # java
-java爬虫 爬取18+成人网站 
+java爬虫 
 首先你需要在D盘中创建三个文件夹 叫做sex ，sexmax ，sexvideo
 分别是储存图片和视频的。
 
